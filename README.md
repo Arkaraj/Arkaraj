@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm student from VIT Vellore and I love to code </br>
-I’m currently working on a MERN stack project 🚀 
+I’m currently working on a MERN stack project 🚀  </br>
+Learning TypeScript ⚛︎
 <!--
 **Arkaraj/Arkaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
