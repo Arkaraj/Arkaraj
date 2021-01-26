@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm student from VIT Vellore and I love to code </br>
+I'm student at VIT Vellore and I love to code </br>
 I’m currently working on a MERN stack project 🚀  </br>
 Learning TypeScript ⚛︎
 <!--
