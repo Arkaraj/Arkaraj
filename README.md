@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm student at VIT Vellore and I love to code </br>
-I’m currently working on a MERN stack project 🚀  </br>
+I’m currently working on a Vs Code Extension 🚀  </br>
 Learning TypeScript, GraphQL, Solidity Blockchain :octocat: ⚛︎</br>
 Personal Blog ✍️: https://arkblog.herokuapp.com 
 <!--
