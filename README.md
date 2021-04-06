@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm student at VIT Vellore and I love to code </br>
 I’m currently working on a Vs Code Extension 🚀  </br>
-Learning TypeScript, GraphQL, Solidity Blockchain :octocat: ⚛︎</br>
+Learning TypeScript, React Native :octocat: ⚛︎</br>
+Looking help with Docker </br>
 Personal Blog ✍️: https://arkblog.herokuapp.com 
 <!--
 **Arkaraj/Arkaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
