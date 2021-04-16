@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm student at VIT Vellore and I love to code </br>
-I’m currently working on a Vs Code Extension 🚀  </br>
+I’m currently working on a Mobile Hybrid app 🚀  </br>
 Learning TypeScript, React Native :octocat: ⚛︎</br>
 Looking help with Docker </br>
 Personal Blog ✍️: https://arkblog.herokuapp.com 
