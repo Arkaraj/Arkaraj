@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm student at VIT Vellore and I love to code </br>
+I'm student at VIT Vellore and I love to learning new technologies </br>
 I’m currently working on a Mobile Hybrid app 🚀  </br>
-Learning Go/Golang :octocat: ⚛︎</br>
+Learning Graphql, Flutter :octocat: ⚛︎</br>
 Looking help with Docker </br>
 Personal Blog ✍️: https://arkblog.herokuapp.com 
 <!--
