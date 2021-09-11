@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm student at VIT Vellore and I love learning new technologies </br>
 I’m currently working on a Mobile Hybrid app 🚀  </br>
-Learning webservices & System design :octocat: ⚛︎</br>
+Learning microservices & System design :octocat: ⚛︎</br>
 Looking help with Docker </br>
 Personal Blog ✍️: https://arkblog.herokuapp.com 
 <!--
