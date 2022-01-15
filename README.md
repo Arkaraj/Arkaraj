@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm student at VIT Vellore and I love learning new technologies </br>
-I’m currently working on a Mobile Hybrid app 🚀  </br>
+I’m currently open to work, contact me: [Arkaraj](mailto:arkaraj2017@gmail.com) 🚀  </br>
 Learning microservices & System design :octocat: ⚛︎.</br>
 Looking help with Docker </br>
 Personal Blog ✍️: https://arkblog.herokuapp.com 
