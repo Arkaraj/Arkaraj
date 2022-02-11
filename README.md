@@ -3,6 +3,7 @@ I'm student at VIT Vellore and I love learning new technologies </br>
 I’m currently open to work, contact me: [Arkaraj](mailto:arkaraj2017@gmail.com) 🚀  </br>
 Learning microservices & System design :octocat: ⚛︎.</br>
 Looking help with Docker </br>
+Currently working on a NFT marketplace DAPP
 Personal Blog ✍️: https://arkblog.herokuapp.com 
 <!--
 **Arkaraj/Arkaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
